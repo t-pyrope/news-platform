@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/news-platform/static/css/main.5966f145.chunk.css",
+    "main.js": "/github.io/news-platform/static/js/main.3576a1b4.chunk.js",
+    "main.js.map": "/github.io/news-platform/static/js/main.3576a1b4.chunk.js.map",
+    "runtime-main.js": "/github.io/news-platform/static/js/runtime-main.13563dda.js",
+    "runtime-main.js.map": "/github.io/news-platform/static/js/runtime-main.13563dda.js.map",
+    "static/js/2.b61634ef.chunk.js": "/github.io/news-platform/static/js/2.b61634ef.chunk.js",
+    "static/js/2.b61634ef.chunk.js.map": "/github.io/news-platform/static/js/2.b61634ef.chunk.js.map",
+    "static/js/3.e782f942.chunk.js": "/github.io/news-platform/static/js/3.e782f942.chunk.js",
+    "static/js/3.e782f942.chunk.js.map": "/github.io/news-platform/static/js/3.e782f942.chunk.js.map",
+    "index.html": "/github.io/news-platform/index.html",
+    "static/css/main.5966f145.chunk.css.map": "/github.io/news-platform/static/css/main.5966f145.chunk.css.map",
+    "static/js/2.b61634ef.chunk.js.LICENSE.txt": "/github.io/news-platform/static/js/2.b61634ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13563dda.js",
+    "static/js/2.b61634ef.chunk.js",
+    "static/css/main.5966f145.chunk.css",
+    "static/js/main.3576a1b4.chunk.js"
+  ]
+}
