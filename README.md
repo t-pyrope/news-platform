@@ -1,6 +1,6 @@
 # News Platform
 
-This is a solution for [the first test assignment (in Russian)](https://vk.com/@maxpfrontend-testovoe-zadanie-1) from [maxfrontend](https://maxpfrontend.ru/) that checks basic skills of react, redux and react-router.
+This is a solution for [the first test assignment (in Russian)](https://vk.com/@maxpfrontend-testovoe-zadanie-1) from [maxfrontend](https://maxpfrontend.ru/). The assignment checks basic skills of react, redux and react-router.
 
 Check [the analysis of solutions and the author's solution on Youtube](https://www.youtube.com/watch?v=BMD1JjZf7WA&t=1s)
 
