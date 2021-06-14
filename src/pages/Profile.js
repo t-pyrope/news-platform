@@ -11,7 +11,7 @@ const Profile = () => {
     }, [history, username]);
 
     return (
-        <main>
+        <main className='article'>
             <h1>Welcome to your profile</h1>
             <p>{Date().toLocaleString()}</p>
         </main>

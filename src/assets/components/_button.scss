@@ -1,0 +1,18 @@
+.button {
+    border: none;
+    padding: 0.5rem 2rem;
+    cursor: pointer;
+    background: $green;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-radius: 5%;
+
+    &_link {
+        background: transparent;
+        font-size: 1rem;
+        text-transform: none;
+        padding: 0;
+        color: $green;
+        font-weight: normal;
+    }
+}

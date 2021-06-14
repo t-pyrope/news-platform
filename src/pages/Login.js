@@ -10,7 +10,6 @@ const Login = () => {
     const dispatch = useDispatch();
     const history = useHistory();
     const { errorMsg, username } = useSelector((state) => state.user);
-
     useEffect(() => {
         if (username) history.push('/profile');
     }, [username, history]);
@@ -43,7 +42,7 @@ const Login = () => {
             <form onSubmit={(e) => loginSubmitHandler(e)} className='form'>
                 <input
                     type='text'
-                    placeholder='username'
+                    placeholder='Username'
                     id='user'
                     value={user}
                     onChange={(e) => inputHandler(e)}
@@ -51,7 +50,7 @@ const Login = () => {
                 />
                 <input
                     type='password'
-                    placeholder='password'
+                    placeholder='Password'
                     id='password'
                     value={password}
                     onChange={(e) => inputHandler(e)}

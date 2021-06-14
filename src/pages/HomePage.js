@@ -39,12 +39,12 @@ const HomePage = () => {
                     </p>
                     <p className='article__paragraph'>
                         <a
-                            href='https://vk.com/@maxpfrontend-testovoe-zadanie-2'
+                            href='https://github.com/t-pyrope/news-platform'
                             target='blank'
                         >
-                            A github repository
+                            A github repository of this solution
                         </a>{' '}
-                        of this solution of the assignment
+                        of the assignment
                     </p>
                 </div>
             </article>
