@@ -10,7 +10,8 @@ const HomePage = () => {
                         This is a solution for{' '}
                         <a
                             href='https://vk.com/@maxpfrontend-testovoe-zadanie-1'
-                            target='blank'
+                            target='_blank'
+                            rel='noopener noreferrer'
                         >
                             a test assignment (in Russian)
                         </a>{' '}
@@ -21,7 +22,8 @@ const HomePage = () => {
                         Check{' '}
                         <a
                             href='https://www.youtube.com/watch?v=BMD1JjZf7WA&t=1s'
-                            target='blank'
+                            target='_blank'
+                            rel='noopener noreferrer'
                         >
                             the analysis of solutions and author's solution
                         </a>{' '}
@@ -31,7 +33,8 @@ const HomePage = () => {
                         You can find{' '}
                         <a
                             href='https://vk.com/@maxpfrontend-testovoe-zadanie-2'
-                            target='blank'
+                            target='_blank'
+                            rel='noopener noreferrer'
                         >
                             a second test assignment
                         </a>{' '}
@@ -40,7 +43,8 @@ const HomePage = () => {
                     <p className='article__paragraph'>
                         <a
                             href='https://github.com/t-pyrope/news-platform'
-                            target='blank'
+                            target='_blank'
+                            rel='noopener noreferrer'
                         >
                             A github repository of this solution
                         </a>{' '}
